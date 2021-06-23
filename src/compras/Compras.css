@@ -1,0 +1,17 @@
+#root {
+  display: inline;
+}
+
+.total{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.total span{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+}
+
+.total span:last-child{
+  color: red;
+}

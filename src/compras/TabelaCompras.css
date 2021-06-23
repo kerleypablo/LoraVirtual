@@ -1,0 +1,8 @@
+table {
+  width: 100%;
+}
+
+table td {
+  background-color: #cef;
+  padding:.2em .2em .2em 1em;
+}
